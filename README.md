@@ -1,4 +1,4 @@
-# Aptos-move-souldBoundNFT
+# Aptos souldBoundNFT
 A research done by [Pollstar](https://news.pollstar.com/2023/06/26/2023-mid-year-business-analysis-strength-in-numbers-mid-year-boxoffice-tallies-point-to-banner-year/) states that the average ticket price has increased more than 4 times since 1997. High service fee for ticket booking adds up from affiliated organisations some of which are part of the ticketing company itself. Read about it [here](https://www.economicliberties.us/press-release/new-report-exposes-live-nation-ticketmasters-monopoly-control-of-top-arenas-and-amphitheaters-worldwide/).
 
 With JamPass ticket selling is more transparent as it is on-chain. Currently, the largest ticketing company holds back the majority of the tickets to be sold for the resell market for a higher profit.
